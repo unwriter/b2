@@ -1,0 +1,22 @@
+{
+  "name": "bitd",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoind-rpc": "^0.7.2",
+    "bton": "0.1.0",
+    "dotenv": "^6.0.0",
+    "iconv-lite": "^0.4.24",
+    "ip": "^1.1.5",
+    "level": "^4.0.0",
+    "mingo": "^2.2.4",
+    "mongodb": "^3.1.4",
+    "p-limit": "^2.0.0",
+    "p-queue": "^3.0.0",
+    "traverse": "^0.6.6",
+    "zeromq": "^4.6.0"
+  }
+}
